@@ -15,6 +15,7 @@ def loop_iterator(number_of_times)
     puts "Welcome to Flatiron School's Web Development Course!"
     if i == 5
       break
+    end
   end
 end
 
